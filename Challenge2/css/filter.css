@@ -1,0 +1,26 @@
+.filter-toolbar {
+  width: 400px;
+  background: antiquewhite;
+  border-radius: 5px;
+  box-shadow: 3px 3px 3px #c9c9c9;
+  margin-inline-end: 10px;
+  height: fit-content;
+  padding-block: 10px;
+  padding-inline: 20px;
+}
+
+.filter-header {
+  text-align: center;
+}
+
+.filter-toolbar ul {
+  list-style-type: none;
+}
+
+.filter h4{
+  text-decoration: underline;
+}
+
+.filter > ul > li > a{
+  color:#6d6e71;
+}

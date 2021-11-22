@@ -1,0 +1,1118 @@
+/* When customizing the theme without Sass you should edit this file */
+/* Remember to rename it to custom.css */
+
+li.level1.nav-2-5 {
+    display: none!important;
+}
+
+.product-super-dad-personalized-book .photo-upload input[data-title^="Additional"]{
+	display:none;
+}
+
+body.product-welcome-baby-book-bundle-gift-set iframe#iseeme-preview {
+    display: block !important;
+}
+
+body[class*="growth-chart"] .modal-shipping-information .air {
+    display: table-row;
+}
+
+
+body[class*="growth-chart"] .modal-shipping-information .expedited {
+    display: table-row;
+}
+
+body[class*="board-book"] .modal-shipping-information .air, body[class*="puzzle"] .modal-shipping-information .air {
+    display: table-row;
+}
+
+.product-page-two.placeholder .page-two-content .new-product-buttons {
+    display: none;
+}
+
+.catalog-category-view.category-personalized-gifts-for-christmas.catalog-category-view .category-title h1, .catalog-category-view.category-personalized-gifts-for-christmas.catalog-category-view .category-title p{
+	color: #777777;
+}
+
+.smr-three {
+    margin: 1.25rem 0 0 0;
+    max-width: 125px;
+    top: 0px;
+    position: absolute;
+    right: 275px;
+}
+
+#smrone, #smrtwo, #smrthree {
+    border-radius: 0px;
+    background-size: 125px;
+    background-repeat: no-repeat;
+    width: 125px;
+    height: 125px;
+}
+
+#smrone{
+	background-image: url('https://cdn-store.iseeme.com/skin/frontend/polar/default/images/product-images/bk550/550-2-thumb.jpg');
+	margin: 0 0 .5rem 0;
+}
+#smrtwo{
+	background-image: url('https://cdn-store.iseeme.com/skin/frontend/polar/default/images/product-images/bk550/550-1-thumb.jpg');
+	margin: 0 0 .5rem 0;
+}
+#smrthree{
+	background-image: url('https://cdn-store.iseeme.com/skin/frontend/polar/default/images/product-images/bk550/550-3-thumb.jpg');
+	margin: 0 0 .5rem 0;
+}
+
+.smr-helper-text{
+	font-size: 20px;
+    font-weight: 600;
+    margin: 1.25rem 0;
+    color: #f7941d;
+	position: relative;
+	z-index: 9999;
+}
+
+.catalog-category-view.category-disney .catalog-banner{
+    background-image: url(https://cdn-store.iseeme.com/skin/frontend/polar/default/images/disney/category-pages/DisneyHeader2.jpg);
+}
+
+.catalog-category-view.category-marvel .catalog-banner{
+    background-image: url(https://cdn-store.iseeme.com/skin/frontend/polar/default/images/marvel/category-pages/MarvelHeader2.jpg);
+}
+
+.catalog-category-view.category-marvel .category-title h1, .catalog-category-view.category-disney .category-title h1{
+	padding: 3rem 3rem 9rem 3rem;
+	color: #ffffff;
+}
+
+.catalog-category-view.category-marvel .category-title p, .catalog-category-view.category-disney .category-title p{
+	  max-width: 1200px;
+}
+
+/* cat book */
+
+body[class*="if-my-cat-could-talk"].alt-order-form .button.dog-lovers, body[class*="cat-buns"].alt-order-form .button.dog-lovers {
+    display: block;
+    margin: 0.25rem 1rem;
+    font-size: 0.75rem;
+}
+
+
+body[class*="if-my-cat-could-talk"] .option[data-title="Has the cat passed away? Holder"], body[class*="product-if-my-cat-could-talk"] .option[data-title="Has the cat passed away? Holder"], body[class*="cat-buns"] .option[data-title="Has the cat passed away? Holder"]{
+
+	display: block!important;
+	height: auto;
+}
+
+
+body[class*="if-my-cat-could-talk"] .option-wrapper[data-title*="Additional Cat Lover"].active, body[class*="cat-buns"] .option-wrapper[data-title*="Additional Cat Lover"].active{
+	display: block!important;
+	height: auto;
+}
+
+
+
+body[class*="if-my-cat-could-talk"] .option-wrapper[data-title*="Additional Cat Lover"].active,
+body[class*="cat-buns"] .option-wrapper[data-title*="Additional Cat Lover"].active {
+  display: block !important;
+  height: auto; }
+body[class*="if-my-cat-could-talk"] div[data-title="Cat Holder"] .input-box:before,
+body[class*="cat-buns"] div[data-title="Cat Holder"] .input-box:before {
+  content: 'You have selected';
+  font-weight: bold; }
+  @media only screen {
+    body[class*="if-my-cat-could-talk"] div[data-title="Cat Holder"] .input-box:before,
+    body[class*="cat-buns"] div[data-title="Cat Holder"] .input-box:before {
+      font-size: 0.7rem; } }
+  @media only screen and (min-width: 40.063em) {
+    body[class*="if-my-cat-could-talk"] div[data-title="Cat Holder"] .input-box:before,
+    body[class*="cat-buns"] div[data-title="Cat Holder"] .input-box:before {
+      font-size: 0.75rem; } }
+  @media only screen and (min-width: 64.063em) {
+    body[class*="if-my-cat-could-talk"] div[data-title="Cat Holder"] .input-box:before,
+    body[class*="cat-buns"] div[data-title="Cat Holder"] .input-box:before {
+      font-size: 0.8rem; } }
+
+body[class*="if-my-cat-could-talk"] .option[data-title="Has the cat passed away? Holder"],
+body[class*="product-if-my-cat-could-talk"] .option[data-title="Has the cat passed away? Holder"],
+body[class*="cat-buns"] .option[data-title="Has the cat passed away? Holder"] {
+  display: block !important;
+  height: auto; }
+body[class*="if-my-cat-could-talk"] #photo-upload-pre-instruction-2, body[class*="if-my-cat-could-talk"] #photo-upload-tips-2,
+body[class*="product-if-my-cat-could-talk"] #photo-upload-pre-instruction-2,
+body[class*="product-if-my-cat-could-talk"] #photo-upload-tips-2,
+body[class*="cat-buns"] #photo-upload-pre-instruction-2,
+body[class*="cat-buns"] #photo-upload-tips-2 {
+  display: none; }
+@media only screen and (max-width: 40em) {
+  body[class*="if-my-cat-could-talk"] #iseeme-preview,
+  body[class*="product-if-my-cat-could-talk"] #iseeme-preview,
+  body[class*="cat-buns"] #iseeme-preview {
+    margin: 1rem 0; } }
+
+body[class*="if-my-cat-could-talk"] .button.dog-lovers,
+body[class*="cat-buns"] .button.dog-lovers {
+  display: none; }
+body[class*="if-my-cat-could-talk"].alt-order-form .button.dog-lovers,
+body[class*="cat-buns"].alt-order-form .button.dog-lovers {
+  display: block;
+  margin: 0.25rem 1rem;
+  font-size: 0.75rem; }
+
+div[data-title="Has the cat passed away? Holder"] dd label {
+  font-weight: bold; }
+div[data-title="Has the cat passed away? Holder"] dd:after {
+  content: 'Text will update to change slightly as shown in preview.';
+  display: block;
+  font-size: 0.85rem;
+  line-height: 1.5;
+  padding-top: 0.25rem;
+  clear: both; }
+
+div[data-title="Cat Holder"] dt label {
+  display: none !important; }
+
+
+
+/* Cat 1 One Color */
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="White"]{
+	background-color: #fdf9f6;
+}
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Black"]{
+	background-color: #242622;
+}
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Gray"]{
+	background-color: #8d9192;
+}
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Orange"]{
+	background-color: #dd8933;
+}
+
+
+	
+/* cat 2 */
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="White"]{
+	background-color: #fdf9f6;
+}
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Gray"]{
+	background-color: #8d9192;
+}
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Black"]{
+	background-color: #242622;
+}
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Orange"]{
+	background-color: #dd8933;
+}
+
+
+
+	  
+/* cat 3 */
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="White"]{
+	background-color: #fdf9f6;
+}
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Tan"]{
+	background-color: #f1c584;
+}
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Black"]{
+	background-color: #242622;
+}
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Gray"]{
+	background-color: #8d9192;
+}
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Orange"]{
+	background-color: #dd8933;
+}
+
+
+
+
+
+
+
+/* cat 4 */
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="White"]{
+	background-color: #fdf9f6;
+}
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Black"]{
+	background-color: #242622;
+}
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Gray"]{
+	background-color: #8d9192;
+}
+
+/* Cat 1 Two Colors */
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="White Orange"]{
+	background-color: #fdf9f6;
+}
+    .product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="White Orange"]:before {
+      content: '';
+      display: block;
+      margin-left: 50%;
+      height: 100%;
+      background-color: #dd8933; 
+	}
+
+
+
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Gray White"]{
+	background-color: #8d9192;
+}
+	.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Gray White"]:before {
+      content: '';
+      display: block;
+      margin-left: 50%;
+      height: 100%;
+      background-color: #fdf9f6; 
+	}
+	
+/* Cat 2 Two Colors */
+
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="White Peach"]{
+	background-color: #fdf9f6;
+}
+	.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="White Peach"]:before {
+      content: '';
+      display: block;
+      margin-left: 50%;
+      height: 100%;
+      background-color: #f2c898; 
+	}
+	
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Tan Black"]{
+	background-color: #dccac0;
+}
+	.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Tan Black"]:before {
+      content: '';
+      display: block;
+      margin-left: 50%;
+      height: 100%;
+      background-color: #242622; 
+	}
+	
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Tan Gray"]{
+	background-color: #dccac0;
+}
+	.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Tan Gray"]:before {
+      content: '';
+      display: block;
+      margin-left: 50%;
+      height: 100%;
+      background-color: #8d9192; 
+	}
+	
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Black White"]{
+	background-color: #242622;
+}
+	.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Black White"]:before {
+      content: '';
+      display: block;
+      margin-left: 50%;
+      height: 100%;
+      background-color: #fdf9f6; 
+	}
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Gray White"]{
+	background-color: #8d9192;
+}
+	.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Gray White"]:before {
+      content: '';
+      display: block;
+      margin-left: 50%;
+      height: 100%;
+      background-color: #fdf9f6; 
+	}
+
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Orange White"]{
+	background-color: #dd8933;
+}
+	.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Orange White"]:before {
+      content: '';
+      display: block;
+      margin-left: 50%;
+      height: 100%;
+      background-color: #fdf9f6; 
+	}
+/* Cat 3 Two Colors */
+
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Orange White"]{
+	background-color: #dd8933;
+}
+	.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Orange White"]:before {
+      content: '';
+      display: block;
+      margin-left: 50%;
+      height: 100%;
+      background-color: #fdf9f6; 
+	}
+
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Black White"]{
+	background-color: #242622;
+}
+	.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Black White"]:before {
+      content: '';
+      display: block;
+      margin-left: 50%;
+      height: 100%;
+      background-color: #fdf9f6; 
+	}
+	
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Light-Gray Black"]{
+	background-color: #aaa9a7;
+}
+	.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Light-Gray Black"]:before {
+      content: '';
+      display: block;
+      margin-left: 50%;
+      height: 100%;
+      background-color: #242622; 
+	}
+	
+/* Cat 4 Two Colors */	
+	.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Gray White"]{
+	background-color: #8d9192;
+}
+	.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Gray White"]:before {
+      content: '';
+      display: block;
+      margin-left: 50%;
+      height: 100%;
+      background-color: #fdf9f6; 
+	}
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Gray Tan"]{
+	background-color: #988c7e;
+}
+	.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Gray Tan"]:before {
+      content: '';
+      display: block;
+      margin-left: 50%;
+      height: 100%;
+      background-color: #e7c5a9; 
+	}
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Tan Gray"]{
+	background-color: #e8caa6;
+}
+	.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Tan Gray"]:before {
+      content: '';
+      display: block;
+      margin-left: 50%;
+      height: 100%;
+      background-color: #969a8b; 
+	}
+
+	
+	
+/* Cat 1 Three Colors */	
+	
+	.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="White Gray Tan"]{
+	background-color: #fdf9f6;
+}
+    .product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="White Gray Tan"]:before, .product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="White Gray Tan"]:after {
+      content: '';
+      display: block;
+      margin-left: 50%;
+      height: 50%;
+      background-color: #b8aa9f; 
+	  }
+    .product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="White Gray Tan"]:after {
+      margin-top: 0%;
+      background-color: #664b36; 
+	  }
+
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Black White Brown"]{
+	background-color: #242622;
+}
+	.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Black White Brown"]:before, .product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Black White Brown"]:after {
+      content: '';
+      display: block;
+      margin-left: 50%;
+      height: 50%;
+      background-color: #fdf9f6; 
+	  }
+    .product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Black White Brown"]:after {
+      margin-top: 0%;
+      background-color: #7a4d36; 
+	  }
+	  
+	  
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Black White Orange"]{
+	background-color: #242622;
+}
+	.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Black White Orange"]:before, .product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Black White Orange"]:after {
+      content: '';
+      display: block;
+      margin-left: 50%;
+      height: 50%;
+      background-color: #fdf9f6; 
+	  }
+    .product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Black White Orange"]:after {
+      margin-top: 0%;
+      background-color: #dd8933; 
+	  }
+
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Black Brown Tan"]{
+	background-color: #242622;
+}
+	.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Black Brown Tan"]:before, .product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Black Brown Tan"]:after {
+      content: '';
+      display: block;
+      margin-left: 50%;
+      height: 50%;
+      background-color: #544532; 
+	  }
+    .product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Black Brown Tan"]:after {
+      margin-top: 0%;
+      background-color: #e2be82; 
+	  }
+	  
+/* Cat 2 Three Colors */
+
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="White Gray Tan"]{
+	background-color: #fdf9f6;
+}
+	.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="White Gray Tan"]:before, .product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="White Gray Tan"]:after {
+      content: '';
+      display: block;
+      margin-left: 50%;
+      height: 50%;
+      background-color: #9c8678; 
+	  }
+    .product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="White Gray Tan"]:after {
+      margin-top: 0%;
+      background-color: #f3d1ae; 
+	  }
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Brown Black White"]{
+	background-color: #7a4d36;
+}
+	.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Brown Black White"]:before, .product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Brown Black White"]:after {
+      content: '';
+      display: block;
+      margin-left: 50%;
+      height: 50%;
+      background-color: #242622; 
+	  }
+    .product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Brown Black White"]:after {
+      margin-top: 0%;
+      background-color: #fdf9f6; 
+	  }
+
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="White Gray Orange"]{
+	background-color: #fdf9f6;
+}
+	.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="White Gray Orange"]:before, .product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="White Gray Orange"]:after {
+      content: '';
+      display: block;
+      margin-left: 50%;
+      height: 50%;
+      background-color: #8d9192; 
+	  }
+    .product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="White Gray Orange"]:after {
+      margin-top: 0%;
+      background-color: #dd8933; 
+	  }
+	  
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="White Black Orange"]{
+	background-color: #fdf9f6;
+}
+	.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="White Black Orange"]:before, .product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="White Black Orange"]:after {
+      content: '';
+      display: block;
+      margin-left: 50%;
+      height: 50%;
+      background-color: #242622; 
+	  }
+    .product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="White Black Orange"]:after {
+      margin-top: 0%;
+      background-color: #dd8933; 
+	  }
+	  
+/* Cat 3 Three Colors */
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="White Black Orange"]{
+	background-color: #fdf9f6;
+}
+	.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="White Black Orange"]:before, .product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="White Black Orange"]:after {
+      content: '';
+      display: block;
+      margin-left: 50%;
+      height: 50%;
+      background-color: #242622; 
+	  }
+    .product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="White Black Orange"]:after {
+      margin-top: 0%;
+      background-color: #dd8933; 
+	  }
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="White Gray Orange"]{
+	background-color: #fdf9f6;
+}
+	.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="White Gray Orange"]:before, .product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="White Gray Orange"]:after {
+      content: '';
+      display: block;
+      margin-left: 50%;
+      height: 50%;
+      background-color: #aaa9a7; 
+	  }
+    .product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="White Gray Orange"]:after {
+      margin-top: 0%;
+      background-color: #dd8933; 
+	  }
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="White Brown Tan"]{
+	background-color: #fdf9f6;
+}
+	.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="White Brown Tan"]:before, .product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="White Brown Tan"]:after {
+      content: '';
+      display: block;
+      margin-left: 50%;
+      height: 50%;
+      background-color: #5c4e41; 
+	  }
+    .product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="White Brown Tan"]:after {
+      margin-top: 0%;
+      background-color: #c38f5d; 
+	  }
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Black Gray White"]{
+	background-color: #242622;
+}
+	.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Black Gray White"]:before, .product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Black Gray White"]:after {
+      content: '';
+      display: block;
+      margin-left: 50%;
+      height: 50%;
+      background-color: #aaa9a7; 
+	  }
+    .product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Black Gray White"]:after {
+      margin-top: 0%;
+      background-color: #fdf9f6; 
+	  }
+	
+.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Black Brown Tan"]{
+	background-color: #242622;
+}
+	.product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Black Brown Tan"]:before, .product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Black Brown Tan"]:after {
+      content: '';
+      display: block;
+      margin-left: 50%;
+      height: 50%;
+      background-color: #8c6440; 
+	  }
+    .product-if-my-cat-could-talk-personalized-cat-book.catalog-product-view .item-wrapper .dog-colors div[class*="Black Brown Tan"]:after {
+      margin-top: 0%;
+      background-color: #f1d4b6; 
+	  }
+
+/* Cat 4 Three Colors */	
+
+/* Baking Cookies */
+
+.product-baking-cookies-together-personalized-storybook.alt-order-form .option[data-title*="Second Child's Gender"],.product-baking-cookies-together-personalized-storybook-and-apron-gift-set.alt-order-form .option[data-title*="Second Child's Gender"],.product-baking-christmas-cookies-together-personalized-storybook.alt-order-form .option[data-title*="Second Child's Gender"],.product-baking-christmas-cookies-together-personalized-storybook-and-apron-gift-set.alt-order-form .option[data-title*="Second Child's Gender"],.product-baking-hanukkah-cookies-together-personalized-storybook.alt-order-form .option[data-title*="Second Child's Gender"],.product-baking-hanukkah-cookies-together-personalized-storybook-and-apron-gift-set.alt-order-form .option[data-title*="Second Child's Gender"]{
+	display: none!important;
+}
+
+.product-baking-cookies-together-personalized-storybook.alt-order-form .option[data-title*="First Child's Skin Tone"],.alt-order-form .option[data-title*="First Child's Hair Color"],.alt-order-form .option[data-title*="Adult's Skin Tone"],.alt-order-form .option[data-title*="Adult's Hair Color"],.alt-order-form .option[data-title*="Adult's Hairstyle"],.alt-order-form .option-wrapper[data-title*="Sender (Example Mom and Dad)"],.alt-order-form .option-wrapper[data-title*="Include Apron"]{
+	display: block!important;
+	height: auto;
+}
+
+.product-baking-cookies-together-personalized-storybook-and-apron-gift-set.alt-order-form .option[data-title*="First Child's Skin Tone"],.alt-order-form .option[data-title*="First Child's Hair Color"],.alt-order-form .option[data-title*="Adult's Skin Tone"],.alt-order-form .option[data-title*="Adult's Hair Color"],.alt-order-form .option[data-title*="Adult's Hairstyle"],.alt-order-form .option-wrapper[data-title*="Sender (Example Mom and Dad)"],.alt-order-form .option-wrapper[data-title*="Include 2nd Apron"]{
+	display: block!important;
+	height: auto;
+}
+
+
+.product-baking-christmas-cookies-together-personalized-storybook.alt-order-form .option[data-title*="First Child's Skin Tone"],.alt-order-form .option[data-title*="First Child's Hair Color"],.alt-order-form .option[data-title*="Adult's Skin Tone"],.alt-order-form .option[data-title*="Adult's Hair Color"],.alt-order-form .option[data-title*="Adult's Hairstyle"],.alt-order-form .option-wrapper[data-title*="Sender (Example Mom and Dad)"],.alt-order-form .option-wrapper[data-title*="Include Apron"]{
+	display: block!important;
+	height: auto;
+}
+
+.product-baking-christmas-cookies-together-personalized-storybook-and-apron-gift-set.alt-order-form .option[data-title*="First Child's Skin Tone"],.alt-order-form .option[data-title*="First Child's Hair Color"],.alt-order-form .option[data-title*="Adult's Skin Tone"],.alt-order-form .option[data-title*="Adult's Hair Color"],.alt-order-form .option[data-title*="Adult's Hairstyle"],.alt-order-form .option-wrapper[data-title*="Sender (Example Mom and Dad)"],.alt-order-form .option-wrapper[data-title*="Include 2nd Apron"]{
+	display: block!important;
+	height: auto;
+}
+.product-baking-hanukkah-cookies-together-personalized-storybook.alt-order-form .option[data-title*="First Child's Skin Tone"],.alt-order-form .option[data-title*="First Child's Hair Color"],.alt-order-form .option[data-title*="Adult's Skin Tone"],.alt-order-form .option[data-title*="Adult's Hair Color"],.alt-order-form .option[data-title*="Adult's Hairstyle"],.alt-order-form .option-wrapper[data-title*="Sender (Example Mom and Dad)"],.alt-order-form .option-wrapper[data-title*="Include Apron"]{
+	display: block!important;
+	height: auto;
+}
+.product-baking-hanukkah-cookies-together-personalized-storybook-and-apron-gift-set.alt-order-form .option[data-title*="First Child's Skin Tone"],.alt-order-form .option[data-title*="First Child's Hair Color"],.alt-order-form .option[data-title*="Adult's Skin Tone"],.alt-order-form .option[data-title*="Adult's Hair Color"],.alt-order-form .option[data-title*="Adult's Hairstyle"],.alt-order-form .option-wrapper[data-title*="Sender (Example Mom and Dad)"],.alt-order-form .option-wrapper[data-title*="Include 2nd Apron"]{
+	display: block!important;
+	height: auto;
+}
+
+
+.product-baking-cookies-together-personalized-storybook .option[data-title*="Holiday"],.product-baking-cookies-together-personalized-storybook-and-apron-gift-set .option[data-title*="Holiday"],.product-baking-christmas-cookies-together-personalized-storybook .option[data-title*="Holiday"],.product-baking-christmas-cookies-together-personalized-storybook-and-apron-gift-set .option[data-title*="Holiday"],.product-baking-hanukkah-cookies-together-personalized-storybook .option[data-title*="Holiday"],.product-baking-hanukkah-cookies-together-personalized-storybook-and-apron-gift-set .option[data-title*="Holiday"]{
+	display: none!important;
+}
+
+.product-baking-cookies-together-personalized-storybook-and-apron-gift-set .personalize-your-product:first-of-type h1, .product-baking-christmas-cookies-together-personalized-storybook-and-apron-gift-set .personalize-your-product:first-of-type h1, .product-baking-hanukkah-cookies-together-personalized-storybook-and-apron-gift-set .personalize-your-product:first-of-type h1{
+	display: none;
+}
+
+
+.product-baking-cookies-together-personalized-storybook #photo-upload-input-box-1, #photo-upload-input-box-2, #photo-upload-input-box-3,.product-baking-cookies-together-personalized-storybook-and-apron-gift-set #photo-upload-input-box-1, #photo-upload-input-box-2, #photo-upload-input-box-3,.product-baking-christmas-cookies-together-personalized-storybook #photo-upload-input-box-1, #photo-upload-input-box-2, #photo-upload-input-box-3,.product-baking-christmas-cookies-together-personalized-storybook-and-apron-gift-set #photo-upload-input-box-1, #photo-upload-input-box-2, #photo-upload-input-box-3,.product-baking-hanukkah-cookies-together-personalized-storybook #photo-upload-input-box-1, #photo-upload-input-box-2, #photo-upload-input-box-3{
+	display: none;
+}
+
+/* updated banner images */
+
+.catalog-category-view.category-personalized-gifts-for-christmas .catalog-banner, .catalog-category-view.category-christmas .catalog-banner{
+	background-image: url(https://cdn-store.iseeme.com/skin/frontend/polar/default/images/headers/Sub_Heads_0027_Christmas.jpg);
+}
+
+.catalog-category-view.category-holiday-gift-guide .catalog-banner, .catalog-category-view.category-holiday-gift-guide .catalog-banner{
+	background-image: url(https://cdn-store.iseeme.com/skin/frontend/polar/default/images/headers/Sub_Heads_0028_Stocking_Stuffers.jpg);
+}
+
+.catalog-category-view.category-personalized-baby-gift-ideas .catalog-banner, .catalog-category-view.category-personalized-baby-gift-ideas .catalog-banner{
+	background-image: url(https://cdn-store.iseeme.com/skin/frontend/polar/default/images/headers/Sub_Heads_0029_Baby.jpg);
+}
+
+.catalog-category-view.category-personalized-gifts .catalog-banner, .catalog-category-view.category-personalized-gifts .catalog-banner{
+	background-image: url(https://cdn-store.iseeme.com/skin/frontend/polar/default/images/headers/Sub_Heads_0030_Gifts.jpg);
+}
+
+.catalog-category-view.category-all-unique-personalized-childrens-gifts .catalog-banner, .catalog-category-view.category-all-unique-personalized-childrens-gifts .catalog-banner{
+	background-image: url(https://cdn-store.iseeme.com/skin/frontend/polar/default/images/headers/Sub_Heads_0031_Personalized_Books.jpg);
+}
+
+.catalog-category-view.category-personalized-gifts-for-pets .catalog-banner, .catalog-category-view.category-personalized-gifts-for-pets .catalog-banner{
+	background-image: url(https://cdn-store.iseeme.com/skin/frontend/polar/default/images/headers/Sub_Heads_0032_Pets.jpg);
+}
+
+.cms-landing-page .slick-initialized .slick-slide.coupons{
+	background-image: url(https://cdn-store.iseeme.com/skin/frontend/polar/default/images/headers/Sub_Heads_0033_Coupons.jpg);
+}
+
+.cms-landing-page .slick-initialized .slick-slide.btob{
+	background-image: url(https://cdn-store.iseeme.com/skin/frontend/polar/default/images/headers/Sub_Heads_0034_BtoB.jpg);
+}
+
+
+.product-my-radio-flyer-adventure-personalized-book.alt-order-form .option{
+	 display: block !important;
+ }
+
+ 
+ @media only screen and (min-width: 80.063em){
+.product-essential #preview-container .iframe-holder iframe {
+    min-height: 700px;
+    max-height: 700px;
+	}
+	.product-img-box iframe {
+    min-height: 700px;
+    max-height: 700px;
+}
+	.category-personalized-placemats .product-essential #preview-container .iframe-holder iframe, .category-personalized-puzzle .product-essential #preview-container .iframe-holder iframe {
+    min-height: 550px;
+    max-height: 550px;
+	}
+}
+ 
+ 
+.product-super-kid-personalized-storybook-gift-set .personalize-your-product:first-of-type h1{
+	display: none;
+}
+
+.product-my-snuggle-bunny-personalized-book-bunny-and-basket-giftset .personalize-your-product:first-of-type h1{
+	display: none;
+}
+ 
+.photo-upload input[data-title^="Child's Photo"] {
+    display: none;
+}
+ 
+.product-personalized-peter-rabbit-hopping-into-life-storybook .dishead-img, .product-personalized-peter-rabbit-little-guide-to-life-storybook .dishead-img{
+	display: none;
+}
+
+.product-personalized-peter-rabbit-hopping-into-life-storybook .small-12.medium-12.large-4.page-two-content.product-page-two, .product-personalized-peter-rabbit-little-guide-to-life-storybook .small-12.medium-12.large-4.page-two-content.product-page-two, .product-personalized-velveteen-rabbit-storybook .small-12.medium-12.large-4.page-two-content.product-page-two, .product-personalized-velveteen-rabbit-storybook .small-12.medium-12.large-4.page-two-content.product-page-two{
+	margin: 0;
+	top: 0;
+}
+ 
+/* homepage value icons */
+.cms-home #promo {
+    display: none !important;
+}
+#tiValueRow p {
+    font-size: 15px;
+    line-height: 23px;
+    font-weight: inherit;
+    max-width: 300px;
+    font-weight: bold;
+    margin: 0 auto;
+}
+#tiValueRow .ti-home-header {
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #353535;
+}
+#tiValueRow {
+    color: #4c4c4c;
+    font-weight: 300;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+#tiValueRow .ti-home-img {
+    margin-bottom: 30px;
+}
+#tiValueRow .middle p {
+    margin: 0 auto 20px auto;
+}
+#tiValueRow a {
+    font-weight: inherit;
+    border-bottom: 1px solid #00bfdf;
+}
+#tiValueRow .columns.middle {
+    border: 0;
+    margin: 40px 0;
+}
+#tiValueRow > div:nth-child(1) > div.ti-home-img::before {
+    background: url('https://s3.amazonaws.com/clientinstalls/I+See+Me/ISM-DesktopHomepageFollowUpTest-July2018/ISM-Step1.png') no-repeat 0 0;
+	width: 64px;
+	height: 64px;
+    content:'';
+    display: block;
+    position: absolute;
+    top: 5px;
+    left: 20px;
+}
+#tiValueRow > div:nth-child(2) > div.ti-home-img::before {
+    background: url('https://s3.amazonaws.com/clientinstalls/I+See+Me/ISM-DesktopHomepageFollowUpTest-July2018/ISM-Step2.png') no-repeat 0 0;
+	width: 64px;
+	height: 64px;
+    content:'';
+    display: block;
+    position: absolute;
+    top: 5px;
+    left: 20px;
+}
+#tiValueRow > div:nth-child(3) > div.ti-home-img::before {
+    background: url('https://s3.amazonaws.com/clientinstalls/I+See+Me/ISM-DesktopHomepageFollowUpTest-July2018/ISM-Step3.png') no-repeat 0 0;
+	width: 64px;
+	height: 64px;
+    content:'';
+    display: block;
+    position: absolute;
+    top: 5px;
+    left: 20px;
+}
+#tiValueRow .columns {
+    position: relative;
+}
+#tiValueRow .ti-mobile-para,
+#tiValueRow .ti-mobile-img {
+    display: none;
+}
+@media only screen and (min-width: 64.063em) {
+    #tiValueRow .columns.middle {
+        border-left: 1px solid #ebebeb;
+        border-right: 1px solid #ebebeb;
+        margin: 0;
+    }    
+}
+@media only screen and (max-width: 1024px) { 
+    #tiValueRow .ti-mobile-para,
+    #tiValueRow .ti-mobile-img {
+        display: block;
+    }
+    #tiValueRow .ti-mobile-img {
+        margin: 0 auto;
+    }
+    #tiValueRow .ti-desk-img,
+    #tiValueRow .ti-desk-copy,
+    #tiValueRow .ti-desk-para {
+        display: none;
+     }
+    #tiValueRow > div:nth-child(1) > div.ti-home-img::before,
+    #tiValueRow > div:nth-child(2) > div.ti-home-img::before,
+    #tiValueRow > div:nth-child(3) > div.ti-home-img::before {
+    	display: none;
+    }
+    #tiValueRow p {
+        font-size: 14px;
+        line-height: 24px;
+        max-width: 290px;
+    }
+} 
+ 
+ 
+/* trinity value prop for order page */
+    .product-social-media-buttons,.wishlist-button,.new-product-buttons {
+        display: none !important;
+    }
+
+    .product-buttons {
+        overflow: hidden;
+    }
+	
+    .ti-value-prop-wrap {
+        font-size: 13px;
+        font-family: 'Oxygen';
+        margin: 25px auto 35px;
+        position: relative;
+        clear: both;
+        text-align: left;
+    }
+
+    .ti-coupon {
+        background: #f0f0f0;
+        border: 1px dashed #ccc;
+        padding: 0 3px;
+    }
+
+    p.ti-sale-blurb:before {
+        content: '';
+        background: url(https://s3.amazonaws.com/clientinstalls/I+See+Me/ISM-Product-Page-Buy-Box-Test-March2018/Variation/Sprite/ISM-Product-Page-Buy-Box-Sprite-Tag.png) no-repeat;
+        background-size: 41px;
+        width: 21px;
+        height: 20px;
+        display: inline-block;
+        background-position: -15px 0px;
+        position: absolute;
+        top: 4px;
+        left: 8px;
+    }
+
+    @media screen and (min-width: 641px) and (max-width: 1024px) {
+        .ti-value-prop-wrap {
+            width: 48%;
+            margin-left: 0;
+        }
+    }
+
+    @media screen and (min-width: 1025px) {
+        .ti-value-prop-wrap {
+            margin-right: -28px;
+        }
+    }
+
+    .ti-value-prop-wrap p {
+        position: relative;
+        padding-left: 40px;
+        font-size: 13px;
+        line-height: 1.6;
+    }
+
+    .ti-value-prop-wrap p+p {
+        margin-top: 10px;
+    }
+
+    .ti-vp-emphasis {
+        color: #7b972c;
+        font-weight: bold;
+        text-transform: uppercase;
+    }
+
+    .ti-free-shipping::before,.ti-satisfaction::before {
+        content: '';
+        background-size: 19px 11px;
+        background-repeat: no-repeat;
+        width: 19px;
+        height: 11px;
+        position: absolute;
+        top: 4px;
+        left: 8px;
+    }
+
+    .ti-free-shipping::before {
+        background-image: url('https://s3.amazonaws.com/clientinstalls/I+See+Me/ISM-Product-Page-Value-Prop-Test-June2018/ISM-Product-Page-Test-Truck-2x.png');
+    }
+
+    .ti-satisfaction::before {
+        background-image: url('https://s3.amazonaws.com/clientinstalls/I+See+Me/ISM-Product-Page-Value-Prop-Test-June2018/ISM-Product-Page-Test-Checkmark-2x.svg');
+    }
+
+    /* Page Two */
+    .product-page-two.placeholder .page-two-content .info-box .review-container:first-child {
+        margin-top: -30px;
+        margin-bottom: 15px;
+    }
+
+
+    .product-page-two.page-two-content .reveal-order-form,.product-page-two.placeholder .reveal-order-form {
+        margin-bottom: 25px;
+    }
+
+    @media screen and (max-width: 640px) {
+
+        .product-page-two .personalize-starter+.ti-value-prop-wrap {
+            display: block;
+            order: 4;
+            margin-top: 10px;
+            margin-bottom: 0;
+        }
+        .product-page-two.page-two-content .reveal-order-form,
+        .product-page-two.placeholder .reveal-order-form {
+            margin-bottom: 0;
+        }
+    }
+
+    @media screen and (min-width: 641px) and (max-width: 1024px) {
+        .page-two-content .ti-value-prop-wrap {
+            width: 100%;
+        }
+    }
+
+    @media screen and (min-width: 1025px) {
+        .product-page-two.placeholder .page-two-content {
+            height: auto;
+            max-height: none;
+            top: 50%;
+            bottom: auto;
+            transform: translateY(-50%);
+        }
+
+        .product-page-two.placeholder .page-two-content .info-box .price-box {
+            margin-bottom: -10px;
+        }
+        .product-page-two.placeholder .page-two-content .info-box .price-box:first-child {
+            margin-bottom: 0.5rem;
+        }
+
+        .product-page-two .ti-value-prop-wrap {
+            margin-right: auto;
+        }
+    }
+	
+/* showing based on reviews for new order form mobile */
+.product-page-two.page-two-content .ratings .rating-links, .product-page-two.placeholder .ratings .rating-links{
+		  display: block;
+	  }
+	  
+	  
+/* cart page trinity code */
+
+.cart .updateSpacer {
+    display: inline-block;
+} 
+.cart .update_button img {
+    margin-left: 15px;
+    margin-right: 4px;
+    position: relative;
+    bottom: 2px;
+    width: 16px !important;
+    height: 16px;
+    cursor: pointer;
+}
+.cart .update_button {
+    display: inline-block;
+    color: #99B93D;
+} 
+.cart .update_button:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}  
+.cart .continue_shopping img {
+    height: 18px;
+    width: 18px !important;
+    margin-right: 4px;
+    position: relative;
+    bottom: 1px;
+} 
+.cart .continue_shopping span {
+    color: #6D6E71;
+    font-size: 13px;
+    line-height: 18px;
+}  
+.cart .cart-footer button {
+    display: none;
+} 
+.cart .click_here {
+    display: block;
+    text-decoration: underline;
+} 
+.cart .sub_click_here {
+    line-height: 18px;
+}
+.cart  .coupon_code_update {
+    cursor: pointer;
+    color: #6D6E71;
+    text-align: center;
+    font-size: 13px;
+    line-height: 18px;
+    padding: 17px 0px;
+    margin: 12px 12px;
+    border: 1px dashed #E8E8E8;
+}  
+html body .cart .cart-collaterals.gift-certificates .totals:after {
+    display: none;
+}
+.cart .totals.active .coupon_code_update {
+    display: none;
+}
+.cart .cart-list .cart-footer {
+    padding: 10px 0 0 0;
+}
+.cart #shopping-cart-table {
+    margin-bottom: 14px;
+}
+@media only screen and (max-width: 1024px) { 
+  	.cart .update_button {
+        display: block;
+        text-align: center;
+    }
+    .cart .update_button img {
+        margin-left: 0px;
+    }
+    .cart .cart-list > li {
+        padding: 0.5rem 0 0rem 0;
+    }
+    .cart .cart-footer {
+        border-top: 0;
+    }
+    .cart a.continue_shopping {
+        padding-bottom: 5px;
+        padding-top: 8px;
+        display: block;
+        text-align: center;
+    }
+    .cart .coupon_code_update {
+        padding: 15px 0px;
+        margin: 10px 10px;
+    }
+    .cart .update_button,
+    .cart .continue-shopping {
+        text-align: left; 
+    }
+}
+@media only screen and (max-width: 640px) {
+    .cart .update_button,
+    .cart .continue-shopping {
+        text-align: center;
+    }
+    .cart p.update_container {
+        text-align: center;
+    }
+}
+ 
+/* Mobile */
+@media only screen and (max-width: 40em) {
+.smr-three {
+    margin: 1.25rem 0 0 0;
+    max-width: 400px;
+    position: inherit;
+    top: unset;
+    right: unset;
+    margin: auto;
+}
+
+#smrone, #smrtwo, #smrthree {
+    border-radius: 0px;
+    background-size: 65px;
+    background-repeat: no-repeat;
+    width: 65px;
+    height: 65px;
+}
+
+.smr-helper-text{
+	display: none;
+}
+
+.new-order-form .standard-options {
+    margin: 0 auto 54px;
+}
+
+.product-page-two.placeholder .new-hero{
+	min-height: 450px;
+    max-height: 455px;
+}
+}
+
